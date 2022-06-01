@@ -1,2 +1,2 @@
-# Nexus-Weather
-Nexus Weather  Based on Python  uses tkinter library
+# WoG-Weather
+WoG Weather  Based on Python  uses tkinter library
